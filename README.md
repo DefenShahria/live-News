@@ -4,13 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![screenshot-1699979877168](https://github.com/DefenShahria/bmi_Calculator/assets/101829607/9c72ea56-7364-495f-ab34-c90700eb0941)
+![screenshot-1699980519217](https://github.com/DefenShahria/bmi_Calculator/assets/101829607/ddc2802d-6ea7-4708-bebc-db68e82c8694)
+![screenshot-1699980534316](https://github.com/DefenShahria/bmi_Calculator/assets/101829607/6f0f2883-6a85-402f-b01c-2dea806f2acd)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
